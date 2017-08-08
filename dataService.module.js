@@ -1,3 +1,3 @@
 (function() {
-	angular.module('dataService',[]);
+	angular.module('appName.dataService',[]);
 })();
